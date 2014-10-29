@@ -1,5 +1,5 @@
 ﻿{
-	"serverType": "none",
+	"serverType": "github",
 	"gitURL": "https://github.com/",
 	"gitIsPrivateRepository": "false"
 }
